@@ -1,5 +1,3 @@
-import React from "react";
-
 const TableList = ({ itemList, onDelete }) => {
   return (
     <div className="w-full max-w-full overflow-x-auto mt-8">
